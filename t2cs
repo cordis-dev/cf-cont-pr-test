@@ -6,7 +6,7 @@ public class t2
   
   {
   
-    var t = DateTime.UtcNow;
+    var t =DateTime.UtcNow;
     
   }
   
